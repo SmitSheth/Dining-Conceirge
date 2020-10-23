@@ -1,4 +1,4 @@
-# Cloud Computing (CSGY-9223-C) - Assignment 1 
+# Cloud Computing (CS-GY-9223-C) - Assignment 1 
 # Dining Conceirge
 
  A Dining Concierge chatbot that sends restaurant suggestions for given a set of preferences via SMS. It is a serverless microservice-driven web application hosted on AWS. It is built by utilizing the AWS services such as 
